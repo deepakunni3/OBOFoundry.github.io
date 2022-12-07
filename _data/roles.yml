@@ -20,9 +20,11 @@
   people:
     - name: matentzn
       orcid: 0000-0002-7356-1779
+    - name: deepakunni3
+      orcid: 0000-0002-3583-7340
       status: lead
 - name: OBO New Ontology Request (NOR) Manager
-  open: false
+  open: true
   commitment: 2-6 hours per month
   requirements:
     - Basic knowledge of OBO dashboard
@@ -41,11 +43,7 @@
   people:
     - name: matentzn
       orcid: 0000-0002-7356-1779
-      status: support
-    - name: pfabry
-      orcid: 0000-0002-3336-2476
       status: lead
-      start: 2022-12
 - name: OBO Website Coordinator
   open: true
   commitment: 2-6 hours per month
@@ -76,26 +74,21 @@
       orcid: 0000-0002-7356-1779
       status: lead
 - name: Technical Working Group OBO Operations liaison
-  open: false
+  open: true
   commitment: 2 hours per month
   requirements:
     - Strong python skills
     - Some level of pro-activity helpful
     - Experience with ODK/docker
   description:
-    Preparing a short report about all general developments in OBO Technical
-    Working Group (TWG) for the OBO Operations team meeting. You will go
-    through pull requests and emails and summarize in bullet points and report
-    to OBO Ops.
+    Preparing a short report about all general developments in OBO Technical Working Group (TWG)
+    for the OBO Operations team meeting. You will go through pull requests and emails and summarize
+    in bullet points and report to OBO Ops.
   responsibilities:
   people:
-    - name: rays22
-      orcid: 0000-0001-8314-2140
-      status: lead
-      start: 2022-12
     - name: matentzn
       orcid: 0000-0002-7356-1779
-      status: support
+      status: lead
 - name: PURL system maintainer
   open: false
   description: |
